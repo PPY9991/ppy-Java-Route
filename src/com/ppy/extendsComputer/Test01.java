@@ -8,6 +8,5 @@ public class Test01 {
         NotePad notePad = new NotePad("8 Elit", "16", "512", "white");
         notePad.printNotePadInfo();
 
-
     }
 }
